@@ -1,0 +1,72 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="YakaHack.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AutoInjectSaver" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Theme" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Classic</Value>
+    </Setting>
+    <Setting Name="Key" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="FirstKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="SecondKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="AKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="InserChineseHere" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="Key7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="All100GeneratedKeys" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="RealKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">// ISSUE: unable to decompile the method.</Value>
+    </Setting>
+    <Setting Name="bois" Type="System.String" Scope="User">
+      <Value Profile="(Default)">b</Value>
+    </Setting>
+    <Setting Name="urmomLocationJK" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="DoneUpdating" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ApiMode" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WeAreDevs API V1</Value>
+    </Setting>
+    <Setting Name="CommandBarData" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="FeMessage" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
